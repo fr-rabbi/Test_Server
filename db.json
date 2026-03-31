@@ -1,16 +1,30 @@
 {
+  "app": {
+    "name": "FR Login App",
+    "version": "1.0.0",
+    "status": "online"
+  },
   "users": [
     {
+      "id": 1,
       "usr_name": "Arif71",
-      "usr_key": "pass123"
+      "usr_key": "FR-12345",
+      "active": true,
+      "role": "user"
     },
     {
+      "id": 2,
       "usr_name": "Sumi_99",
-      "usr_key": "key8899"
+      "usr_key": "FR-8899",
+      "active": true,
+      "role": "user"
     },
     {
+      "id": 3,
       "usr_name": "Rohan_Dev",
-      "usr_key": "admin@2026"
+      "usr_key": "ADMIN-2026",
+      "active": true,
+      "role": "admin"
     }
   ]
 }
