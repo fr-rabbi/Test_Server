@@ -25,6 +25,13 @@
       "usr_key": "ADMIN-2026",
       "active": true,
       "role": "admin"
+    },
+    {
+      "id": 4,
+      "usr_name": "Rabbi_Dev",
+      "usr_key": "ADMIN-2026",
+      "active": true,
+      "role": "admin"
     }
   ]
 }
